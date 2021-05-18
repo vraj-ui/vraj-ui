@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-
-**vraj-ui/vraj-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+👨🏻‍🎓I'm student of Computer Engineering 
 
 - 🔭 I’m currently working on "Can't say that"
 - 🌱 I’m currently learning Cs.
 - 📫 How to reach me: pvraj2812@gmail.com
 - ⚡ Fun fact: I love CS.
-- 🤞 Want to talk Come on Insta: @thegourmand.vrj 
+
+### Learning 👨🏻‍💻:
+
+
+### Get In Touch😜:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vraj-ui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thegourmand.vrj/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vraj-ui&show_icons=true)
