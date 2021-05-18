@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pvraj2812@gmail.com
 - ⚡ Fun fact: I love CS.
 - 🤞 Want to talk Come on Insta: @thegourmand.vrj 
-- https://user-images.githubusercontent.com/69664494/118705299-b1c22400-b835-11eb-9c1a-a27d9fc77397.mp4
