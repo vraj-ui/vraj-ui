@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love CS.
 
 ### Learning 👨🏻‍💻:
-
+<!-- (https://github.com/vraj-ui/vraj-ui/blob/main/animation.gif.mp4) -->
 
 ### Get In Touch😜:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vraj-ui)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thegourmand.vrj/)  
