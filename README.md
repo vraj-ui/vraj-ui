@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Vraj 👋
 
-👨🏻‍🎓I'm student of Computer Engineering 
+👨🏻‍🎓I'm a student of Computer Engineering 
 
 - 🔭 I’m currently working on "Can't say that"
 - 🌱 I’m currently learning Cs.
